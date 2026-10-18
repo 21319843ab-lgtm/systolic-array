@@ -1,0 +1,12 @@
+/sim/build/
+/obj_dir/
+__pycache__/
+*.pyc
+*.vcd
+*.fst
+*.log
+/report_logs/
+/.dide/
+
+/analysis/results/*.csv
+/analysis/results/*.svg
